@@ -1,4 +1,4 @@
-# -Deloitte-virtual-Internship-Forage
+# Deloitte-virtual-Internship-Forage
 
 Task 1
 
